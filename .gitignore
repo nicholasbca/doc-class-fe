@@ -1,0 +1,5 @@
+node_modules
+venv
+api/__pycache__
+saved_model.h5
+model
