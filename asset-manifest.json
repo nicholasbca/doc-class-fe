@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nicholasbca/doc-class-fe/static/css/main.fc79f4fa.chunk.css",
+    "main.js": "/nicholasbca/doc-class-fe/static/js/main.13f42076.chunk.js",
+    "main.js.map": "/nicholasbca/doc-class-fe/static/js/main.13f42076.chunk.js.map",
+    "runtime-main.js": "/nicholasbca/doc-class-fe/static/js/runtime-main.1fd2a4c4.js",
+    "runtime-main.js.map": "/nicholasbca/doc-class-fe/static/js/runtime-main.1fd2a4c4.js.map",
+    "static/css/2.d4bd74a8.chunk.css": "/nicholasbca/doc-class-fe/static/css/2.d4bd74a8.chunk.css",
+    "static/js/2.4a82d0f8.chunk.js": "/nicholasbca/doc-class-fe/static/js/2.4a82d0f8.chunk.js",
+    "static/js/2.4a82d0f8.chunk.js.map": "/nicholasbca/doc-class-fe/static/js/2.4a82d0f8.chunk.js.map",
+    "index.html": "/nicholasbca/doc-class-fe/index.html",
+    "precache-manifest.aac271c6c3f4103e37f3acbf1f42d93d.js": "/nicholasbca/doc-class-fe/precache-manifest.aac271c6c3f4103e37f3acbf1f42d93d.js",
+    "service-worker.js": "/nicholasbca/doc-class-fe/service-worker.js",
+    "static/css/2.d4bd74a8.chunk.css.map": "/nicholasbca/doc-class-fe/static/css/2.d4bd74a8.chunk.css.map",
+    "static/css/main.fc79f4fa.chunk.css.map": "/nicholasbca/doc-class-fe/static/css/main.fc79f4fa.chunk.css.map",
+    "static/js/2.4a82d0f8.chunk.js.LICENSE.txt": "/nicholasbca/doc-class-fe/static/js/2.4a82d0f8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nicholasbca/doc-class-fe/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fd2a4c4.js",
+    "static/css/2.d4bd74a8.chunk.css",
+    "static/js/2.4a82d0f8.chunk.js",
+    "static/css/main.fc79f4fa.chunk.css",
+    "static/js/main.13f42076.chunk.js"
+  ]
+}
